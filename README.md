@@ -1,4 +1,4 @@
-# Hi there, I'm lizaixi
+# Hi there, I'm Zae
 
 <table border="0" width="100%">
   <tr>
@@ -10,8 +10,8 @@
         熟悉 Vue、React、TypeScript，也做过后台系统、多端应用、小程序、桌面端和扩展工具。
       </p>
       <p>
-        <a href="https://github.com/lzx54">
-          <img src="https://img.shields.io/github/followers/lzx54?label=Followers&style=for-the-badge" alt="GitHub followers" />
+        <a href="https://github.com/DevZaeX">
+          <img src="https://img.shields.io/github/followers/DevZaeX?label=Followers&style=for-the-badge" alt="GitHub followers" />
         </a>
         <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-0f766e?style=for-the-badge" alt="Focus" />
         <img src="https://img.shields.io/badge/Stack-Vue%20%7C%20React%20%7C%20TS-1d4ed8?style=for-the-badge" alt="Stack" />
@@ -23,7 +23,7 @@
     <td width="42%" align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=0F766E&center=true&vCenter=true&width=420&lines=Frontend+Engineer;Vue+%2F+React+%2F+TypeScript;Web+%2F+Desktop+%2F+Mini+Program" alt="Typing SVG" />
       <br />
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=lzx54&show_icons=true&theme=transparent&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=334155" alt="GitHub stats" />
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=DevZaeX&show_icons=true&theme=transparent&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=334155" alt="GitHub stats" />
     </td>
   </tr>
 </table>
@@ -68,7 +68,7 @@ Dev Tools         -> Chrome Extension / VS Code Extension
 ## Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzx54&layout=compact&hide_border=true&theme=transparent&title_color=0f766e&text_color=334155" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZaeX&layout=compact&hide_border=true&theme=transparent&title_color=0f766e&text_color=334155" alt="Top languages" />
 </p>
 
 ## A Short Note
